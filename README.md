@@ -1,6 +1,9 @@
-**harini G** **Company**: CODETECH IT SOLUTIONS
-**Id**: CT08DS78 **Domain**: PYTHON PROGRAMMING
-**Duration**: NOV-30 TO DEC-30,2024.
+**HEMACHANDER R** 
+**Company**: CODETECH IT SOLUTIONS
+**Id**: CT08DS630
+**Domain**: PYTHON PROGRAMMING
+**Duration**: DEC 12th, 2024 TO JAN 12th,2025.
+
 ---
 
 # Student Grade Tracker
